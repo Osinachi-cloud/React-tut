@@ -1,0 +1,23 @@
+.sidebar-comp{
+ 
+
+}
+.menu{
+    color: grey;
+    font-size: 1.4rem;
+    display: block;
+    padding: 15px 15px;
+    display: flex;
+    align-items: center;
+   
+    
+
+}
+.menu a{
+    text-decoration: none;
+    color:grey;
+    margin-left:10px;
+}
+.menu:hover{
+    background-color:#d8e0fd ;
+}
